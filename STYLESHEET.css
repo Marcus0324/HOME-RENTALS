@@ -15,7 +15,7 @@ body
 
 .menu-bar
 {
-    background: rgba(255, 255, 255, 0.096);
+    background: rgba(255, 255, 255, 0.24);
     text-align: center;
 }
 
@@ -43,6 +43,6 @@ body
 
 .menu-bar ul li: hover
 {
-    background: #fff;
+    background: #2bab0d;
     border-radius: 3px;
 }
