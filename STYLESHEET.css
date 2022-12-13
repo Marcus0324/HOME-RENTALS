@@ -18,3 +18,10 @@ body
     background: rgba(255, 255, 255, 0.096);
     text-align: center;
 }
+
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: antiquewhite;
+}
