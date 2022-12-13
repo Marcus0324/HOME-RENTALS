@@ -2,9 +2,18 @@
 {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body
 {
     background-image:url(background.jpg);
+    background-size:cover;
+    background-position: center;
+    font-family:sans-serif;
+}
+.menu-bar
+{
+    background: rgba(255, 255, 255, 0.096);
+    text-align: center;
 }
