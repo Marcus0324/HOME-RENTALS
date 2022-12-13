@@ -41,8 +41,8 @@ body
 
 }
 
-.menu-bar ul li: hover
+.menu-bar ul li:hover
 {
-    background: #2bab0d;
+    background: #050c05;
     border-radius: 3px;
 }
