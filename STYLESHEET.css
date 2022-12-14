@@ -7,7 +7,7 @@
 
 body
 {
-    background-image:url(background.jpg);
+    background-image:url(Wall\ paper.gif);
     background-size:cover;
     background-position: center;
     font-family:sans-serif;
@@ -44,5 +44,5 @@ body
 .menu-bar ul li:hover
 {
     background: #050c05;
-    border-radius: 3px;
+    border-radius: 10px;
 }
